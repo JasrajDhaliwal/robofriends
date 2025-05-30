@@ -1,0 +1,13 @@
+
+@font-face {
+  font-family: 'Technos Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Technos Regular'), url('Technos-PKDZP.woff') format('woff');
+}
+
+h1 {
+  font-family: 'Technos Regular';
+  font-weight: 200;
+  color: rgb(53, 22, 0);
+}
